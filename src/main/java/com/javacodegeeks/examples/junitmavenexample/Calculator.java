@@ -1,7 +1,5 @@
 package com.javacodegeeks.examples.junitmavenexample;
 
-import java.lang.Exceptions;
-
 public class Calculator implements ICalculator {
 
 	@Override
