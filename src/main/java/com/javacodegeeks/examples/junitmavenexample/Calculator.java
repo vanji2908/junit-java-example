@@ -1,5 +1,5 @@
 package com.javacodegeeks.examples.junitmavenexample;
-
+//test
 public class Calculator implements ICalculator {
 
 	@Override
